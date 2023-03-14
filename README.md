@@ -1,16 +1,26 @@
-### Hi there 👋
+[//]: <> (http://localhost:8080/jhonydvg/index.html)
 
-<!--
-**jhonydvg/jhonydvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: <> (npx @11ty/eleventy --serve)
+# Jonathan D. Vargas G.
+## Trainer Fullstack JavaScript DEVeloper.
+## _Lcdo. en Administracion de Empresas_
 
-Here are some ideas to get you started:
+### **Cursante del Bootcamp dictado por Guillermo Rodas en 2023**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Soy Jonathan Vargas,** tengo 36 años, titulado en Administracion de Empresas, actualmente residenciado en Sabaneta, Antioquia y con esta vivencia en el Bootcamp buscando una nueva reinvencion en mi vida personal e incursionando en el mundo DEV 
+
+## 🐱‍👤Comandos Curiosos
+| Comando | Descripcion |
+| ------ | ------ |
+| whoami | muestra el nombre del usuario activo en la terminal |
+| cd | change directory, te permite cambiar de directorio segun tu instruccion |
+| mkdir | make directory, ayuda a crear un directorio en la locacion actual |
+| touch | ayuda a crear un archivo nuevo, vacio, sin extension |
+| cal | te muestra el calendario del mes actual |
+
+***Si el comando Cal no resulta funcional, seguir la siguiente instruccion***
+```sh
+sudo apt-get update
+sudo apt install ncal
+```
