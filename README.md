@@ -5,7 +5,7 @@
 ## Trainer Fullstack JavaScript DEVeloper.
 ## _Lcdo. en Administracion de Empresas_
 
-### **Cursante del Bootcamp dictado por Guillermo Rodas en 2023**
+### **Cursante del Bootcamp dictado por Guillermo Rodas en Marzo 2023**
 
 
 **Soy Jonathan Vargas,** tengo 36 años, titulado en Administracion de Empresas, actualmente residenciado en Sabaneta, Antioquia y con esta vivencia en el Bootcamp buscando una nueva reinvencion en mi vida personal e incursionando en el mundo DEV 
@@ -13,7 +13,7 @@
 ## 🐱‍👤Comandos Curiosos
 | Comando | Descripcion |
 | ------ | ------ |
-| whoami | muestra el nombre del usuario activo en la terminal |
+| whoami | muestra el  nombre del usuario activo en la terminal |
 | cd | change directory, te permite cambiar de directorio segun tu instruccion |
 | mkdir | make directory, ayuda a crear un directorio en la locacion actual |
 | touch | ayuda a crear un archivo nuevo, vacio, sin extension |
